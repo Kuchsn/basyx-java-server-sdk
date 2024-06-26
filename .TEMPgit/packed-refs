@@ -1,6 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-8674a1ec419383d93fd55a4553bda161e6e36e4e refs/remotes/origin/feature/mongo-aas4j
-7904300dbc006febd5edc995879dafc03327bd8e refs/remotes/origin/main
-c6d807243e1f7eb74eb4499e591b78ca5d04a066 refs/remotes/origin/milestone-01
-d30eb48fe70027273ccb90a89fb17c43039f0f05 refs/remotes/origin/update/bulk-api
-606fc3827edab87243de40da58b51aa2ae2809c3 refs/tags/2.0.0-milestone-02
